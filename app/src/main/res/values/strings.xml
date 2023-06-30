@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="add">Enter item</string>
+    <string name="git">git</string>
+</resources>
